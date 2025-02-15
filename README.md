@@ -1,2 +1,2 @@
 # learn-javascript
-revisiting JavaScript to strengthen my skills.
+Revisiting JavaScript to strengthen my skills.
