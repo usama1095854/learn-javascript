@@ -1,1 +1,2 @@
-console.log("usama")
+console.log('usama');
+alert('hello');
